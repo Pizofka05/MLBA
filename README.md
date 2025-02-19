@@ -7,8 +7,8 @@ Looking for junior data analyst position in healthcare indstury
 # Education
 
 - Tunghai University
- - Finance
-
+  - Finance
+- NCHU
 
 # Experience
 
