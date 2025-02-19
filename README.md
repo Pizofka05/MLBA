@@ -12,4 +12,7 @@ Looking for junior data analyst position in healthcare indstury
 
 # Experience
 
-- CTBC Bank
+- Part time job
+
+# Skills
+- Markets Analytic
