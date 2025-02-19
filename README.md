@@ -15,4 +15,10 @@ Looking for junior data analyst position in healthcare indstury
 - Part time job
 
 # Skills
-- Markets Analytic
+- Markets analytic
+- Speak 4 different languages
+- Good at problem solving
+- Business analytic
+- Open minded
+- Financial management
+- Good at money management
