@@ -1,5 +1,7 @@
 # Mario Tedjasukmana
 
+![](dog.jpg)
+
 # Purpose
 
 Looking for junior data analyst position in healthcare indstury
