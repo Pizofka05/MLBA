@@ -4,23 +4,21 @@
 
 # Purpose
 
-Looking for junior data analyst position in healthcare indstury
+Looking for Financial Specialist in Lam Research Company
 
 # Education
 
 - Tunghai University
   - Finance
-- NCHU
 
 # Experience
 
-- Part time job
+- CTBC Bank internship
+- Joined the Tunghai University Indonesian Organization
 
 # Skills
-- Markets analytic
-- Speak 4 different languages
-- Good at problem solving
-- Business analytic
-- Open minded
-- Financial management
-- Good at money management
+
+- Leadering skill
+- Problem solver
+- Financial analyst
+- Markets analyst
